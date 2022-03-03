@@ -1,0 +1,15 @@
+C:\Repository\snake\snake\snake\bin\Debug\net6.0\snake.exe
+C:\Repository\snake\snake\snake\bin\Debug\net6.0\snake.deps.json
+C:\Repository\snake\snake\snake\bin\Debug\net6.0\snake.runtimeconfig.json
+C:\Repository\snake\snake\snake\bin\Debug\net6.0\snake.dll
+C:\Repository\snake\snake\snake\bin\Debug\net6.0\snake.pdb
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.csproj.AssemblyReference.cache
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.AssemblyInfoInputs.cache
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.AssemblyInfo.cs
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.csproj.CoreCompileInputs.cache
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.dll
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\refint\snake.dll
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.pdb
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\snake.genruntimeconfig.cache
+C:\Repository\snake\snake\snake\obj\Debug\net6.0\ref\snake.dll
