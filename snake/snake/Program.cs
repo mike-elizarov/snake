@@ -9,46 +9,11 @@
     
     p2.Draw();
 
-    Point p3 = new Point(6, 7, '*');
+    HorizontalLine line = new HorizontalLine(5, 10, 8, '+');
+    line.Draw();
 
-    p3.Draw();
-
-    Point p4 = new Point(8, 9, '#');
-
-    p4.Draw();
-
-    Point p5 = new Point(10, 11, '*');
-    
-    p5.Draw();
-
-    Point p6 = new Point(12, 13, '#');
-
-    p6.Draw();
-
-    List<char> charlist = new List<char>();
-    charlist.Add('*');
-    charlist.Add('#');
-    charlist.Add('*');
-    charlist.Add('#');
-    charlist.Add('*');
-    charlist.Add('#');
-
-
-    
-    /*foreach(int i in numlist)
-    {
-        Console.WriteLine(i);
-    }*/
-
-    List<Point> plist = new List<Point>();
-    plist.Add(p1);
-    plist.Add(p2);
-    plist.Add(p3);
-    plist.Add(p4); 
-    plist.Add(p5);
-    plist.Add(p6);
-
-
+    VerticalLine line1 = new VerticalLine(5, 10, 15, '+');
+    line1.Draw();
 
     Console.ReadLine();
 }
