@@ -25,7 +25,7 @@
 
     p6.Draw();
 
-    List<int> charlist = new List<char>();
+    List<char> charlist = new List<char>();
     charlist.Add('*');
     charlist.Add('#');
     charlist.Add('*');
