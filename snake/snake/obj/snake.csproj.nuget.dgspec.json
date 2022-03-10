@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mikhail\\Reositories\\snake\\snake\\snake\\snake\\snake.csproj": {}
+    "D:\\Mikhail\\Repositories\\snake\\snake\\snake\\snake.csproj": {}
   },
   "projects": {
-    "D:\\Mikhail\\Reositories\\snake\\snake\\snake\\snake\\snake.csproj": {
+    "D:\\Mikhail\\Repositories\\snake\\snake\\snake\\snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mikhail\\Reositories\\snake\\snake\\snake\\snake\\snake.csproj",
+        "projectUniqueName": "D:\\Mikhail\\Repositories\\snake\\snake\\snake\\snake.csproj",
         "projectName": "snake",
-        "projectPath": "D:\\Mikhail\\Reositories\\snake\\snake\\snake\\snake\\snake.csproj",
+        "projectPath": "D:\\Mikhail\\Repositories\\snake\\snake\\snake\\snake.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Mikhail\\Reositories\\snake\\snake\\snake\\snake\\obj\\",
+        "outputPath": "D:\\Mikhail\\Repositories\\snake\\snake\\snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
