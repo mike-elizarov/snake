@@ -10,10 +10,10 @@
     p2.Draw();
 
     HorizontalLine line = new HorizontalLine(5, 10, 8, '+');
-    line.Draw();
+    line.Drow();
 
     VerticalLine line1 = new VerticalLine(5, 10, 15, '+');
-    line1.Draw();
+    line1.Drow();
 
     Console.ReadLine();
 }
