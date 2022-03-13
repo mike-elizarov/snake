@@ -5,9 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-    internal class VerticalLine
+    internal class VerticalLine : Figure
     {
-      List<Point> plist;
       public VerticalLine(int yHi, int yLo, int x, char sym)
       {
         plist = new List<Point>();
@@ -17,12 +16,5 @@ using System.Threading.Tasks;
             plist.Add(p);
         }
       }
-
-      public void Drow()
-      {
-        foreach(Point p in plist)
-        {
-            p.Draw();
-        }
-      }
+     
     }

@@ -5,10 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-   internal class HorizontalLine
+   internal class HorizontalLine : Figure
     {
-        List<Point> plist;
-
+       
         public HorizontalLine(int xLeft, int xWright, int y, char sym)
         {
             plist = new List<Point>();
@@ -19,11 +18,5 @@ using System.Threading.Tasks;
             }
         }
 
-        public void Drow()
-        {
-            foreach (Point p in plist)
-            {
-                p.Draw();
-            }
-        }
+       
     }
